@@ -1,22 +1,16 @@
 {
   "projects": [
     {
-      "name": "course ffff",
+      "name": "course ",
       "description": "tomorrow session will be fantastic",
       "id": "9680",
       "complete": true
     },
     {
       "id": "3476",
-      "name": "gggggggggggg",
-      "description": "ggggrrrrrrrrrrr",
+      "name": "football app",
+      "description": "creating an application to view the clubs results",
       "complete": false
-    },
-    {
-      "id": "02d3",
-      "name": "ggggg",
-      "description": "sssssssssssssssssssssssssssssss",
-      "complete": true
     }
   ]
 }
